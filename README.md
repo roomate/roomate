@@ -4,7 +4,7 @@ I am Hugo Negrel, a passionate engineer freshly graduated from [ENSTA Paris](htt
 
 Not a line of my projects is 'vibe-coded'.
 
-I am currently an AI Research Intern at Capital Fund Management in Paris, within the Machine Learning Lab.
+I am currently a first year PhD Student at Ecole Normale Supérieure in the Department of Mathematics and Applications.
 
 - 📫 How to reach me: <hugo.negrel@ensta-paris.fr>
 
