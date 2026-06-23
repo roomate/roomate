@@ -8,6 +8,10 @@ I am currently a first year PhD Student at Ecole Normale Supérieure in the Depa
 
 - 📫 How to reach me: <hugo.negrel@ens.psl.eu>
 
+---
+
+[Code](https://github.com/multitaskstochasticinterpolant/Code-Multitask-Stochastic-Interpolants) for the paper *Multitask learning with Stochastic Interpolants*, Spotlight NeurIPS2025.
+
 <!--
 **roomate/roomate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
