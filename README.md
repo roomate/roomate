@@ -14,6 +14,8 @@ Among the project I carried out, my repositories contain:
 - Coding in C++ Chess & Tic-Tac-Toe games embedded with a Minimax algorithm to play against the computer
 - A mini Python Shell to understand the inner working of the Linux OS
 
+--- 
+
 - 📫 How to reach me: <hugo.negrel@ens.psl.eu>
 <!--
 **roomate/roomate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
