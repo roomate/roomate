@@ -4,6 +4,16 @@ I am Hugo Negrel, a passionate engineer freshly graduated from [ENSTA Paris](htt
 
 I am currently a first year PhD Student at Ecole Normale Supérieure in the Department of Mathematics and Applications.
 
+Among the project I carried out, my repositories contain:
+
+- Rewrite various machine learning algorithms from scratch with only NumPy
+- Massive Parallel computing in CUDA for exotic option pricing
+- Finite elements to solve Wave equation and Laplace equation
+- My work at Master MVA
+- Cosmology and the self-gravitating collapse of a dead star
+- Coding in C++ Chess & Tic-Tac-Toe games embedded with a Minimax algorithm to play against the computer
+- A mini Python Shell to understand the inner working of the Linux OS
+
 - 📫 How to reach me: <hugo.negrel@ens.psl.eu>
 <!--
 **roomate/roomate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
