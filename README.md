@@ -8,11 +8,11 @@ Among the project I carried out, my repositories contain:
 
 - Rewrite various machine learning algorithms from scratch with only NumPy
 - Massive Parallel computing in CUDA for exotic option pricing
-- Finite elements to solve Wave equation and Laplace equation
+- Finite elements to solve Wave equation and Laplace equation with error analysis in Sobolev norms.
 - My work at Master MVA
 - Cosmology and the self-gravitating collapse of a dead star
 - Coding in C++ Chess & Tic-Tac-Toe games embedded with a Minimax algorithm to play against the computer
-- A mini Python Shell to understand the inner working of the Linux OS
+- A mini Linux Shell written in Python to understand the inner working of the Linux OS (pipe, process, fork...)
 
 --- 
 
