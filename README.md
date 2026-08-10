@@ -1,4 +1,4 @@
-## Welcome to my GitHub 
+## Welcome to my GitHub, wanderer
 
 I am Hugo Negrel, a passionate engineer freshly graduated from [ENSTA Paris](https://www.ensta-paris.fr/) and [Mathematics Vision Learning (MVA)](https://www.master-mva.com/) master's program. I specialized in Applied Mathematics/Computer Science during my student years. I had the chance to follow state-of-the-art courses on both machine learning and numerical analysis of PDEs, respectively at MVA and [Analysis, Modeling, Simulation](https://uma.ensta-paris.fr/modsim/) master's program. I am also passionate of physics in general, especially in astrophysics 🌕 and plasma physics.
 
@@ -6,10 +6,10 @@ I am currently a first year PhD Student at Ecole Normale Supérieure in the Depa
 
 Among the project I carried out, my repositories contain:
 
-- Rewrite various machine learning algorithms from scratch with only NumPy
+- Rewrite various machine learning algorithms from scratch using only NumPy
 - Massive Parallel computing in CUDA for exotic option pricing
-- Finite elements to solve Wave equation and Laplace equation with error analysis in Sobolev norms.
-- My work at Master MVA
+- Finite elements PDE solver for Wave equation and Laplace equations with error analysis in Sobolev norms
+- My projects at Master MVA
 - Cosmology and the self-gravitating collapse of a dead star
 - Coding in C++ Chess & Tic-Tac-Toe games embedded with a Minimax algorithm to play against the computer
 - A mini Linux Shell written in Python to understand the inner working of the Linux OS (pipe, process, fork...)
