@@ -1,6 +1,8 @@
-## Welcome to my GitHub, wanderer
+## Greatings wanderer, I am Hugo
 
-I am Hugo Negrel, a passionate engineer freshly graduated from [ENSTA Paris](https://www.ensta-paris.fr/) and [Mathematics Vision Learning (MVA)](https://www.master-mva.com/) master's program. I specialized in Applied Mathematics/Computer Science during my student years. I had the chance to follow state-of-the-art courses on both machine learning and numerical analysis of PDEs, respectively at MVA and [Analysis, Modeling, Simulation](https://uma.ensta-paris.fr/modsim/) master's program. I am also passionate of physics in general, especially in astrophysics 🌕 and plasma physics.
+<h3 align="center">A dedicated PhD Student in machine learning and numerical analysis <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" alt="France" width="20" height="15"/></h3>
+
+I graduated from both [ENSTA Paris](https://www.ensta-paris.fr/) engineering school and [Mathematics Vision Learning (MVA)](https://www.master-mva.com/) master's program. I specialized in Applied Mathematics and Computer Science during my student years. I had the chance to follow state-of-the-art courses on both machine learning and numerical analysis of PDEs, respectively at MVA and [Analysis, Modeling, Simulation](https://uma.ensta-paris.fr/modsim/) master's program. I am also passionate of physics in general, especially in astrophysics 🌕 and plasma physics.
 
 I am currently a first year PhD Student at Ecole Normale Supérieure in the Department of Mathematics and Applications.
 
@@ -8,11 +10,46 @@ Among the project I carried out, my repositories contain:
 
 - Rewrite various machine learning algorithms from scratch using only NumPy
 - Massive Parallel computing in CUDA for exotic option pricing
-- Finite elements PDE solver for Wave equation and Laplace equations with error analysis in Sobolev norms
+- Finite elements PDE solver for Wave equation and Laplace equations with error analysis in Sobolev norms. A non-conformal method is explored.
 - My projects at Master MVA
 - Cosmology and the self-gravitating collapse of a dead star
 - Coding in C++ Chess & Tic-Tac-Toe games embedded with a Minimax algorithm to play against the computer
 - A mini Linux Shell written in Python to understand the inner working of the Linux OS (pipe, process, fork...)
+
+#### Tech stack
+
+<p align="left">
+<!-- Programming Languages -->
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://developer.nvidia.com/cuda/toolkit" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Nvidia_CUDA_Logo.jpg" alt="CUDA" width="40" height="40"/> </a>
+<!-- Core Data Science Libraries -->
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+<a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://scipy.org/images/logo.svg" alt="scipy" width="40" height="40"/> </a>
+<!-- Machine Learning Frameworks -->
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+<!-- Big Data Processing -->
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/> </a>
+<!-- MLOps & Deployment -->
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+<!-- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> -->
+<!-- Development Tools -->
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/> </a>
+<!-- Databases -->
+<!-- <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> -->
+<!-- Web Development -->
+<!-- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> -->
+</p>
 
 --- 
 
