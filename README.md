@@ -16,7 +16,7 @@ Among the project I carried out, my repositories contain:
 - Coding in C++ Chess & Tic-Tac-Toe games embedded with a Minimax algorithm to play against the computer
 - A mini Linux Shell written in Python to understand the inner working of the Linux OS (pipe, process, fork...)
 
-#### Tech stack
+### Tech stack
 
 <p align="left">
 <!-- Programming Languages -->
