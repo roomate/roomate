@@ -2,7 +2,9 @@
 
 <h3 align="center">A dedicated PhD Student in machine learning and numerical analysis <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" alt="France" width="20" height="15"/></h3>
 
-I graduated from both [ENSTA Paris](https://www.ensta-paris.fr/) engineering school and [Mathematics Vision Learning (MVA)](https://www.master-mva.com/) master's program. I specialized in Applied Mathematics and Computer Science during my student years. I had the chance to follow state-of-the-art courses on both machine learning and numerical analysis of PDEs, respectively at MVA and [Analysis, Modeling, Simulation](https://uma.ensta-paris.fr/modsim/) master's program. I am also passionate of physics in general, especially in astrophysics 🌕 and plasma physics.
+I am a recent graduate from both [ENSTA Paris](https://www.ensta-paris.fr/) engineering school and [Mathematics Vision Learning (MVA)](https://www.master-mva.com/) master's program, specializing in Applied Mathematics and Computer Science. Additionally, I had the opportunity to take cutting-edge courses in the  [Analysis, Modeling, Simulation](https://uma.ensta-paris.fr/modsim/) (AMS) master's programme, which strengthened my knowledge of HPC and physical modelling from the perspective of an applied mathematician. I am also passionate of physics, especially astrophysics🌌 and plasma physics⚛.
+
+At the [Center for Data Science](https://csd.ens.psl.eu/?Presentation-du-CDD), I develop strong theoretical foundations in state-of-the-art data science while gaining hands-on experience in practical computer science and engineering. My main research interests lie at the intersection of generative modeling, partial differential equations (PDEs) and statistics, with a particular focus on their computational and mathematical aspects.
 
 I am currently a first year PhD Student at Ecole Normale Supérieure in the Department of Mathematics and Applications.
 
