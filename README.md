@@ -52,6 +52,7 @@ Among the project I carried out, my repositories contain:
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> -->
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/6ed5a1af93f63bda3b39be87c80aa35d65c829b6872424e558f7cab39aa0fc7a/68747470733a2f2f706c2d7075626c69632d646174612e73332e616d617a6f6e6177732e636f6d2f6173736574735f6c696768746e696e672f7079746f7263682d6c696768746e696e672e706e67" alt="figma" width="180" height="40"/> </a>
 </p>
 
 --- 
