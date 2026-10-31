@@ -11,8 +11,8 @@ I am currently a first year PhD Student at Ecole Normale Supérieure in the Depa
 Among the project I carried out, my repositories contain:
 
 - Rewrite various machine learning algorithms from scratch using only NumPy
-- Massive Parallel computing in CUDA for exotic option pricing
-- Finite elements PDE solver for Wave equation and Laplace equations with error analysis in Sobolev norms. A non-conformal method is explored.
+- Massive Parallel computing in CUDA for exotic option pricing (Monte-Carlo and finite-difference)
+- Finite elements PDE solver for Wave equation and Laplace equation with error analysis in Sobolev norms. A non-conformal method is explored.
 - My projects at Master MVA
 - Cosmology and the self-gravitating collapse of a dead star
 - Coding in C++ Chess & Tic-Tac-Toe games embedded with a Minimax algorithm to play against the computer
